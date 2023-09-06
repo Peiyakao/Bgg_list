@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aqueous-cabinet-385101",
+  "private_key_id": "247b579b17097e563e7a83a44657513b89916863",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbTVmqXjuRB2h0\n6YZsGGRpN/88IfU9DiUGjvVj3qtjXLh0jiwvj+TBI2R3I7/4fE88bY1xcnSYuvr6\nSrhXBWlFVZmZM1M9eNgtwRf0bC8sHW/UUyTz17U7jBH2DFFGe5kfp112A1hXEngq\nLsOvuwyP0wVm/W9+k0vFG/3adPS5jbr9/O0v0ueiZjGQPsZxEYyj4wgTMrKu15Nu\nbVPcgxUBCEbE8qL50qAvKbowyJQ+8ovrHuYDJqycAbzfjTAVgyjF34EUFc6P/3aN\nV/5t4zeTW0c9A/FM2ZjM+O5/K5bOdAmi0ScQswTgD0tDcbBlVnPj98CfxOZAw8bV\ncIR/pxWZAgMBAAECggEABRz6GYmiOO9vQUAqEJeKAMva77InhqPXVLyyuB/N8UbN\nfOrsagF5FOHTLjgDW01Od40c1dIgpCGt3z1EDftr4KBFnx1pPXIj3ffIT+Aa+n8a\nnjlBk3Sz7xq4warcpy8tFrV2Nos8JpvBUJQ7FadZLcgTGrW37MkxOrNl+4ITx6Ml\nh5ZqviziY8x2LLf0JlhF7uvIh5p/sZdhCwUwVTc8+xoR3RZ76Su180fmgCLkoxEL\nY+6EifnzJEKD8YjgMMRxIGh6WbLXghUIXntZjs5g/D/iMRah+K48pDUnDR+WNXUq\n52qbZtvNRRl8iJ+T5ryNbAHkRmfoYZUYPUv0x2iJgQKBgQDbDgr9+wsSgjUP8Dd2\n/9xhLABo/k8AkDHrWGGPz87p4UaE/9X9b+GGhJFW+UCq6SUQ3HgSDyPicvweoejA\ngWurgcfMiXTe8ceV0f7/hOlwTBBSvfdBVnIoiu1ZNBrF1FpXX0PvdPrE/Ca1BiNK\nEd5opdYC4yhn/NdNs/hcqu4/wQKBgQC1frUe60RHxYmNcwxHfMjRCjv2+qqIyrqU\nus/1PPP5fcZUJ9cXxdd1jkHsZHquG53pCpHFvxkM/X3HSPblIsXYspDO44cyID7D\nz6Od7mk83gNzU/lAqzCeB+AwU2JIthLkDc4yAasf1sSm9Hn31T086r+ey5F0ghhV\nIsBPiGXL2QKBgHWYLlJ2KFWBTNcHj970L+yCYJ38l5Cn2ASNZ6J6XouzgdX4OXpa\nS2mZVSSpnguiKWHJ2TNoqUzxiWMwa/CcCZ8Chq3IxNLCXPCS0R9+zIqaatDgZhHP\nRG17Vzth+1VkUDNDUwcDd3O0IVtgtiUXPpxTGnZmV9SrKTHvgU7N/CSBAoGASp1X\n2uk//f2xCiz1LGKZsI7zjhsJhwlJYaHXouu3JafWpHxoikZ0yMh+Q7AfW3rRFaCZ\nw2FH7DY+wnI1xofgLLFkpRmXWD03cIrpqiD8tOBVLNGmFDcM2rtEKLnvGxN3erhO\nP/K9pm5GFJlHl2LcNTIRKzhniS1+0WljBI9/wikCgYEAqT3Wm51t175FvDVMCWPI\nImyjcr7pY9OTAfhYAzGOtIUn7jnhgNr8/J1oTFJMIkwmmEv0fdBHnd8Mo/Nr5bLm\nWc7KOqiFRiGB9GFmSmnPEXs3B1+lN0+ZafrKl1bFERb2LXm2Yc5AKjN90cADwBve\nUxjUmWzqJDakm1hpgaN2i1I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bgg-362@aqueous-cabinet-385101.iam.gserviceaccount.com",
+  "client_id": "110845281930013520088",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bgg-362%40aqueous-cabinet-385101.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
